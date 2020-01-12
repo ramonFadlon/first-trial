@@ -9,3 +9,6 @@ log.red('hello','again');
 log.cyan('hello','again');
 log.blue('hello','again');
 log.pink('hello','again');
+
+console.log('Hiiiiii');
+log.green('bye');
